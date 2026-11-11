@@ -1,6 +1,6 @@
 # Oracle Linux 9 Ansible Test Image
 
-[![CI](https://github.com/elsoa-invitech/docker-oracle9-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/elsoa-invitech/docker-oracle9-ansible/actions?query=workflow%3ABuild)
+[![CI](https://github.com/elsoa-invitech/docker-oracle9-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/elsoa-invitech/docker-oracle9-ansible/actions?query=workflow%3ABuild) ![GitHub License](https://img.shields.io/github/license/elsoa-invitech/docker-oracle9-ansible)
 
 Oracle Linux 9 Docker container for Ansible playbook and role testing.
 
